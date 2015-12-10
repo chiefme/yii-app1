@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Yii 2 Advanced Project Template
 ===============================
 
@@ -56,4 +55,3 @@ tests                    contains various tests for the advanced application
 =======
 # yii-app1
 test yii app
->>>>>>> fda997efcdca28e867672989df131b4dde2d7c4c
